@@ -6,7 +6,7 @@ import { Nav } from "@/components/ui/nav";
 const geist = Geist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SP Urban Data",
+  title: "Pesquisa Origem-Destino 2023",
   description: "Dados urbanos da cidade de São Paulo",
 };
 

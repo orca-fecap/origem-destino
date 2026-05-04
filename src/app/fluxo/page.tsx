@@ -7,7 +7,7 @@ export default function FluxoPage() {
       <div className="mb-6">
         <h1 className="text-2xl font-bold tracking-tight">Fluxo Urbano</h1>
         <p className="text-muted-foreground text-sm mt-1">
-          Viagens motorizadas entre distritos de São Paulo · Origem de dados: viagens_motorizadas.csv
+          Viagens motorizadas entre distritos de São Paulo
         </p>
       </div>
       <Separator className="mb-6" />

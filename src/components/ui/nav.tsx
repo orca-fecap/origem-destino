@@ -17,7 +17,7 @@ export function Nav() {
     <nav className="flex items-center gap-1 px-6 py-3 border-b bg-background">
       {/* Logo / título */}
       <span className="font-semibold text-sm mr-6 text-foreground tracking-tight">
-        SP Urban Data
+        Pesquisa Origem-Destino 2023
       </span>
 
       {links.map(({ href, label, icon: Icon }) => {

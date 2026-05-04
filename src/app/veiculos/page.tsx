@@ -23,7 +23,7 @@ export default function VeiculosPage() {
       <div className="mb-6">
         <h1 className="text-2xl font-bold tracking-tight">Posse de Veículos</h1>
         <p className="text-muted-foreground text-sm mt-1">
-          Distribuição por domicílio nos distritos de São Paulo · Origem de dados: df.csv
+          Distribuição por domicílio nos distritos de São Paulo
         </p>
       </div>
       <Separator className="mb-6" />
